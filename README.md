@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning plasma simulation, and published some papers.
 - 💞️ I’m looking to collaborate on transp, orbit and nova/novak.
 - 📫 my email is blhao@ipp.ac.cn, we can talk by zoom meeting.
-Research interests
+- Research interests
 Fast ion behavior in the toroidally confined plasma, such as beam ions physics simulation in tokamak experiment and alpha particle in fusion reactor design. Have working experience in EAST, CFETR and BEST. 
 Have experience of neutral beam injection heating and alpha particle physics.
 
-Selected English language publications
+- Selected English language publications
 [1] Baolong Hao, Roscoe White, et al., Modeling of the beam excited fishbone mode in EAST. Nuclear Fusion, 2019, 59, 076040
 [2] Baolong Hao, Roscoe White, et al., Numerical investigation of alpha particle confinement under the influence of NTM in CFETR. Nuclear Fusion, 2021, 61, 046035
 [3] Bin Wu, Baolong Hao*, Roscoe White, et al., Calculation of prompt loss and toroidal field ripple loss under the neutral beam injection on EAST. Plasma Phys. Control. Fusion, 2017, 59 025004
